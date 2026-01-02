@@ -14,7 +14,9 @@
   status = 200
 
 [context.production.environment]
-  VITE_API_URL = "https://api.hairazone.com"
+  NEXT_PUBLIC_SUPABASE_URL = "https://xkvcycztcdncxnawhlfq.supabase.co"
+  NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhrdmN5Y3p0Y2RuY3huYXdobGZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjczNzEzNzgsImV4cCI6MjA4Mjk0NzM3OH0.31WmX_Lzng1_8t5kQ5rpkoVacqDVePn_TeW4kbgVoXA"
 
 [context.deploy-preview.environment]
-  VITE_API_URL = "https://api-dev.hairazone.com"
+  NEXT_PUBLIC_SUPABASE_URL = "https://xkvcycztcdncxnawhlfq.supabase.co"
+  NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhrdmN5Y3p0Y2RuY3huYXdobGZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjczNzEzNzgsImV4cCI6MjA4Mjk0NzM3OH0.31WmX_Lzng1_8t5kQ5rpkoVacqDVePn_TeW4kbgVoXA"
