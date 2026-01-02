@@ -6,22 +6,22 @@ import { Toaster } from "@/components/ui/sonner";
 
 export const metadata: Metadata = {
   title: {
-    default: "APE Connect",
-    template: "%s | APE Connect",
+    default: "HAIRAZONE - L'univers du cheveu texturé",
+    template: "%s | HAIRAZONE",
   },
-  description: "Parent-school communication platform for absence management and textbook marketplace",
+  description: "La plateforme ultime pour les cheveux texturés. Testez votre look en AR, réservez les meilleurs pros et shoppez des soins experts.",
   manifest: "/manifest.json",
-  keywords: ["school", "parent", "communication", "absence", "textbook", "marketplace"],
-  authors: [{ name: "APE Connect" }],
+  keywords: ["cheveux texturés", "cheveux afro", "coiffeur", "barbier", "perruques", "extensions", "soins capillaires", "mirror AR", "diagnostic IA"],
+  authors: [{ name: "HAIRAZONE" }],
   openGraph: {
-    title: "APE Connect",
-    description: "Parent-school communication platform for absence management and textbook marketplace",
+    title: "HAIRAZONE - L'univers du cheveu texturé",
+    description: "La plateforme ultime pour les cheveux texturés. Testez votre look en AR, réservez les meilleurs pros et shoppez des soins experts.",
     type: "website",
   },
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "APE Connect",
+    title: "HAIRAZONE",
   },
   formatDetection: {
     telephone: false,
