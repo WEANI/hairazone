@@ -3,6 +3,7 @@ import "./globals.css";
 import { AuthProvider } from "@/contexts/AuthContext";
 import { EstablishmentProvider } from "@/contexts/EstablishmentContext";
 import { Toaster } from "@/components/ui/sonner";
+import Header from "@/components/layout/Header";
 
 export const metadata: Metadata = {
   title: {
@@ -53,6 +54,7 @@ export default function RootLayout({
       <body className="antialiased bg-background text-foreground">
         <AuthProvider>
           <EstablishmentProvider>
+            <Header />
             {children}
             <Toaster position="top-right" richColors />
           </EstablishmentProvider>
