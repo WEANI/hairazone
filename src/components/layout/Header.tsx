@@ -35,8 +35,8 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center">
-            <span className="text-2xl lg:text-3xl font-bold bg-gradient-to-r from-purple-600 via-pink-600 to-orange-600 bg-clip-text text-transparent">
-              HAIRAZONE
+            <span className="text-2xl lg:text-3xl font-bold tracking-tighter text-slate-900">
+              KWATILI
             </span>
           </Link>
 

@@ -1,8 +1,8 @@
-##  **Structure de la Landing Page : HAIRAZONE (B2C)**
+##  **Structure de la Landing Page : KWATILI (B2C)**
 
 ### **1\. Le Header (Navigation ultra-claire)**
 
-* **Logo :** HAIRAZONE.  
+* **Logo :** KWATILI.  
 * **Menu :** 📅 Réserver un Pro | 🛍️ Shop (Produits & Perruques) | 🎓 Academy (Formations) | **Essai Virtuel (Mirror AR)**. | 📱 Diagnostic IA.  
 * **CTA :** Connexion / Inscription .
 
@@ -37,11 +37,11 @@
 ### **5\. La Marketplace : "Le Shop des Experts"**
 
 * **Carousel de produits :** Divisé par catégories : *Soins Profonds | Barbe | Kids | Perruques & Extensions | Accessoires.*  
-* **Le \+ Hairazone :** "Des produits recommandés par les pros après chaque diagnostic."
+* **Le \+ Kwatili :** "Des produits recommandés par les pros après chaque diagnostic."
 
 ---
 
-### **6\. HAIRAZONE Academy (Le savoir-faire)**
+### **6\. KWATILI Academy (Le savoir-faire)**
 
 * **Titre :** "Devenez votre propre expert."  
 * **Offre :** "Téléchargez nos E-books sur la pousse, apprenez la confection de perruques, participez a des ateliers retrouvez toutes les  formations "  
@@ -68,7 +68,7 @@
 
 ### **8\. Footer (Réassurance)**
 
-* Devenir Partenaire (Lien vers Hairazone Pro).  
+* Devenir Partenaire (Lien vers Kwatili Pro).  
 * Newsletter "Conseils de Pros".  
 * Paiement sécurisé et service client dédié.
 

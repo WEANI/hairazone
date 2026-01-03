@@ -7,22 +7,22 @@ import Header from "@/components/layout/Header";
 
 export const metadata: Metadata = {
   title: {
-    default: "HAIRAZONE - L'univers du cheveu texturé",
-    template: "%s | HAIRAZONE",
+    default: "KWATILI - Vos cheveux, votre identité, notre expertise",
+    template: "%s | KWATILI",
   },
-  description: "La plateforme ultime pour les cheveux texturés. Testez votre look en AR, réservez les meilleurs pros et shoppez des soins experts.",
+  description: "La première plateforme TOUT-EN-UN dédiée aux cheveux texturés. Testez votre style, réservez les meilleurs experts et accédez aux soins dont vos cheveux ont réellement besoin.",
   manifest: "/manifest.json",
-  keywords: ["cheveux texturés", "cheveux afro", "coiffeur", "barbier", "perruques", "extensions", "soins capillaires", "mirror AR", "diagnostic IA"],
-  authors: [{ name: "HAIRAZONE" }],
+  keywords: ["cheveux texturés", "cheveux afro", "coiffeur", "barbier", "perruques", "extensions", "soins capillaires", "mirror AR", "diagnostic IA", "kwatili"],
+  authors: [{ name: "KWATILI" }],
   openGraph: {
-    title: "HAIRAZONE - L'univers du cheveu texturé",
-    description: "La plateforme ultime pour les cheveux texturés. Testez votre look en AR, réservez les meilleurs pros et shoppez des soins experts.",
+    title: "KWATILI - Vos cheveux, votre identité, notre expertise",
+    description: "La première plateforme TOUT-EN-UN dédiée aux cheveux texturés. Testez votre style, réservez les meilleurs experts et accédez aux soins dont vos cheveux ont réellement besoin.",
     type: "website",
   },
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "HAIRAZONE",
+    title: "KWATILI",
   },
   formatDetection: {
     telephone: false,

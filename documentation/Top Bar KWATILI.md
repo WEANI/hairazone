@@ -1,8 +1,8 @@
-### **📱 Configuration de la Top Bar HAIRAZONE**
+### **📱 Configuration de la Top Bar KWATILI**
 
 #### **1\. Section GAUCHE : Identité**
 
-* **LOGO :** **HAIRAZONE** (Typographie moderne, cliquable pour retour accueil).
+* **LOGO :** **KWATILI** (Typographie moderne, cliquable pour retour accueil).
 
 ---
 
@@ -14,7 +14,7 @@ C'est le cœur de l'expérience utilisateur, divisé en 4 piliers clairs :
    * *Sous-catégories (Dropdown) :* Barbiers | Coiffeurs Femmes  | Pose perruques  | Kids Friendly |  
 2. **SHOPPER**\* *Action :* Accès à la Marketplace.  
    * *Sous-catégories (Dropdown) :* Soins & Cosmétiques | Perruques & Extensions | Accessoires | Matériel Pro.  
-3. **SE FORMER** \* *Action :* Accès à Hairazone Academy.  
+3. **SE FORMER** \* *Action :* Accès à Kwatili Academy.  
    * *Sous-catégories (Dropdown) :* E-books (Entretien & Pousse) | Formations Vidéo (Perruques, Coiffure) | Ateliers Physiques.  
 4. **OUTILS IA** (Mise en avant visuelle, ex: texte en gras ou icône technologique)  
    * *Action :* Menu regroupant les innovations.  
