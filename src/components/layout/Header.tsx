@@ -52,27 +52,27 @@ export default function Header() {
               </DropdownMenuTrigger>
               <DropdownMenuContent align="start" className="w-56">
                 <DropdownMenuItem asChild>
-                  <Link href="/salons" className="cursor-pointer">
+                  <Link href="/bookings" className="cursor-pointer">
                     Tous les professionnels
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
-                  <Link href="/salons?type=barbiers" className="cursor-pointer">
+                  <Link href="/bookings?type=barbiers" className="cursor-pointer">
                     Barbiers
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
-                  <Link href="/salons?type=coiffeurs-femmes" className="cursor-pointer">
+                  <Link href="/bookings?type=coiffeurs-femmes" className="cursor-pointer">
                     Coiffeurs Femmes
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
-                  <Link href="/salons?type=pose-perruques" className="cursor-pointer">
+                  <Link href="/bookings?type=pose-perruques" className="cursor-pointer">
                     Pose perruques
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
-                  <Link href="/salons?type=kids-friendly" className="cursor-pointer">
+                  <Link href="/bookings?type=kids-friendly" className="cursor-pointer">
                     Kids Friendly
                   </Link>
                 </DropdownMenuItem>
@@ -232,19 +232,19 @@ export default function Header() {
               <div>
                 <h3 className="font-semibold text-sm text-muted-foreground mb-2">RÉSERVER</h3>
                 <div className="flex flex-col gap-1">
-                  <Link href="/salons" className="py-2 px-3 hover:bg-muted rounded">
+                  <Link href="/bookings" className="py-2 px-3 hover:bg-muted rounded">
                     Tous les professionnels
                   </Link>
-                  <Link href="/salons?type=barbiers" className="py-2 px-3 hover:bg-muted rounded">
+                  <Link href="/bookings?type=barbiers" className="py-2 px-3 hover:bg-muted rounded">
                     Barbiers
                   </Link>
-                  <Link href="/salons?type=coiffeurs-femmes" className="py-2 px-3 hover:bg-muted rounded">
+                  <Link href="/bookings?type=coiffeurs-femmes" className="py-2 px-3 hover:bg-muted rounded">
                     Coiffeurs Femmes
                   </Link>
-                  <Link href="/salons?type=pose-perruques" className="py-2 px-3 hover:bg-muted rounded">
+                  <Link href="/bookings?type=pose-perruques" className="py-2 px-3 hover:bg-muted rounded">
                     Pose perruques
                   </Link>
-                  <Link href="/salons?type=kids-friendly" className="py-2 px-3 hover:bg-muted rounded">
+                  <Link href="/bookings?type=kids-friendly" className="py-2 px-3 hover:bg-muted rounded">
                     Kids Friendly
                   </Link>
                 </div>
